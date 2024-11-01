@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Project: Travel webpage"</title>
+        <style>
+            h1 {
+                color: rgb(186, 74, 9); 
+            }
+        
+            h2 {
+                color: rgb(255, 91, 79);
+            }
+            #titulo {
+            background-color:rgb(222, 160, 160);
+            }
+            #subtitulo {
+            background-color: rgb(247, 235, 156);
+            }
+            h3 {
+                color:rgb(255, 114, 33);
+            }
+            body {
+                background-color:rgb(255, 251, 242);
+            }
+            
+            .tres {
+                background-color: rgb(254, 255, 219);
+            }
+            
+            p {
+                color:rgb(242, 154, 53);
+            }
+        </style>
+    </head>
+    <body>
+    
+        <h1 id="titulo" align="center"> TRAVEL AGENCY</h1>
+        <p align="center"> Welcome to our travel agency <strong>"Despegar"</strong>. <br>
+Do you need to organize the trip of your dreams quickly and easily? <br> 
+You're in luck! Here you will find the best offers for your trip. </p> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Boeing_787-8_%22Dreamliner%22_%28N965AM%29_de_Aerom%C3%A9xico.JPG/800px-Boeing_787-8_%22Dreamliner%22_%28N965AM%29_de_Aerom%C3%A9xico.JPG" alt="an_image" width="570">
+<p align="center"><strong>Buy your trip now!</strong></p>
+ <p align="center">Our agents will help you make your trip quickly and easily. Check our channels!</p>
+
+        <h2 id="subtitulo" align="center" >Check out our different packages!</h2>
+
+        <h3 class="tres" align="center">PARIS</h3>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Tour_Eiffel_-_night_%282016%29.jpg/250px-Tour_Eiffel_-_night_%282016%29.jpg" alt="an_image" alt="parisss" width="280"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Eiffel_tower_at_dawn_horizontal.jpg/640px-Eiffel_tower_at_dawn_horizontal.jpg" alt="an_image" alt="pari pari" width="280">"
+        
+        <p><strong><em>Our complete tour offers:</em></strong></p>
+        <ol> 
+            <li>Accommodation according to your budget </li>
+            <li>Visit: the Eiffel Tower, the Louvre Museum, enjoy a walk along the banks of the Seine or visit the Notre Dame Cathedral.</li>
+            <li>Transport</li>
+            <li>Tour guide</li>
+        </ol>
+        <h3 class="tres" align="center">NEW YORK</h3>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/New_york_times_square-terabass.jpg/1200px-New_york_times_square-terabass.jpg" alt="an_image" width="280">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/1200px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg" alt="an_image" width="280" height="186">
+        <p><strong><em>Offers:</em></strong></p>
+        <ol>
+            <li>Accommodation according to budget </li>
+            <li>Visit: The Statue of Liberty and Ellis Island, Times Square, the heart of NY and The Met Museum</li>
+            <li>Transport</li>
+            <li>Tour guide</li>
+        </ol>
+        
+        <h3 class="tres" align="center">ITALY</h3>
+        <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg/1200px-Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg" alt="an image" width="280">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Loreto_-_veduta_01.jpg" alt="an image" width="280" height="188">
+        <p><strong><em>Offers:</em></strong></p>
+        <ol>
+            <li>Accommodation according to budget </li>
+             <li>Visit: Rome, Venice and Florence</li>
+              <li>Transport</li>
+               <li>Tour guide</li>
+        </ol>
+        
+         <h3 class="tres" align="center">KOREA</h3>
+         <img src= "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Dongdaemun_Design_Plaza_at_night%2C_Seoul%2C_Korea.jpg/220px-Dongdaemun_Design_Plaza_at_night%2C_Seoul%2C_Korea.jpg" alt="an image" width="280">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Seoul_%28175734251%29.jpeg/1200px-Seoul_%28175734251%29.jpeg" alt="an image" width="280" height="187">
+         <p><strong><em>Offers:</em></strong></p>
+        <ol>
+            <li>Accommodation according to budget </li>
+            <li>Visit: Gyeongbokgung Palace, Changdeokgung Palace, Deoksugung Palace, Gwanghwamun Plaza.</li>
+            <li>Transport </li>
+            <li>Tour guide</li>
+            <li>Reservations to activity centers</li>
+        </ol>
+        
+         <h3 class="tres" align="center">BARCELONA</h3>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Palau_Nacional%2C_Barcelona.jpg/1200px-Palau_Nacional%2C_Barcelona.jpg" alt="an image" width="280" height="210">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Barcelona_Spain_-_panoramio.jpg" alt="an image" width="280">
+        <p><strong><em>Offers:</em></strong></p>
+        <ol>
+            <li>Accommodation according to budget </li>
+            <li>Visit to: La Sagrada Familia, Park Güell, Camp Nou, Palau de la Música.</li>
+            <li>Transport </li>
+            <li>Tour guide</li>
+        </ol>
+        <br>
+    <p align="center">That's not all! Doesn't an offer appear for your destination? Don't worry, dial the numbers:8617739390 // 8102754895
+    <br>
+    <p align="center">Thank you for choosing our agency "Despegar" we hope it has been helpful to you.
+Follow us on our social networks!</p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="an image" width="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" alt="an image" width="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/220px-Logo_of_Twitter.svg.png" alt="an image" width="49">
+        
+    </body>
+</html>
